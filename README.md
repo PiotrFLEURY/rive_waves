@@ -1,6 +1,8 @@
 # waves
 
-A new Flutter project.
+Rive annimation test in Flutter
+
+![waves](docs/output.gif)
 
 ## Getting Started
 
@@ -14,3 +16,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Rive.app
+
+The waves animation has been created using [Rive](https://rive.app/).
+
+## Rive Flutter
+
+The Rive Flutter package is available on [https://pub.dev/packages/rive](https://pub.dev/packages/rive).
+
